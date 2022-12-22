@@ -5,6 +5,9 @@
     font-weight: normal;
     color: #2f80ed;
     text-decoration: none;
+    display: flex;
+    justify-content: flex-start;
+    border: 1px solid sienna;
   }
   .khan__buy-link:hover{
     opacity: 70%;
